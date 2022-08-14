@@ -1,0 +1,28 @@
+.container {
+   display: flex;
+   width: 60%;
+   margin: auto;
+   margin-top: 50px;
+}
+
+.container img {
+   width: 50%;
+   height: 500px;
+   position: center;
+}
+
+.container h1 {
+   position: absolute;
+   width: 500px;
+   left: 700px;
+   padding: 150px;
+
+}
+
+.container button {
+   width: 50px;
+   height: 20px;
+   position: absolute;
+   top: 45%;
+   left: 67%;
+}

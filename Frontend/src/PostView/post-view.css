@@ -1,0 +1,162 @@
+/* .logo{
+    width:10px;
+    height:10px;
+}
+.container{
+    max-width: 500px;
+    margin:auto;
+}
+.post{
+    margin: 10px;
+    max-width: 500px;
+    margin: auto;
+    width:300px;
+}
+.nav{
+    margin: 10px;
+    max-width: 500px;
+    margin: auto;   
+    padding-inline-start: 0%;
+}
+.container img{
+    height:10px;
+    width:200px;
+}
+.content{
+    height:400px;
+    width:200px;
+    border: 2px;
+} */
+
+.logo{
+    width: 900px;
+    border-bottom:1px solid grey;
+    height:50px;
+    position: relative;
+    margin-left: 220px;
+}
+.Insta{
+    height: 45px;
+}
+.image{
+    height:25px;
+    position:absolute;
+    right:80px;
+
+}
+.post{
+    height: 500px;
+    width:500px;
+    border:2px solid grey;
+    position:relative;
+    left:200px;
+    margin: 15px;
+    margin-left: 250px;
+    border-radius: 8px;
+}
+.author{
+    font-weight: bold;
+    position: absolute;
+    left:20px;
+    top:10px;
+}
+.selfie{
+    height: 300px;
+    width: 500px;
+    position: absolute;
+    top: 80px;
+}
+.like{
+    position: absolute;
+    bottom: 80px;
+    margin-left: 10px;
+}
+.likes{
+    margin-right: 20px;
+}
+.Like{
+    position: absolute;
+    bottom: 45px;
+    opacity: 50%;
+    left: 15px;
+
+}
+.user-description{
+    position: absolute;
+    bottom: 30px;
+    font-weight: bold;
+    left: 15px;
+}
+.date{
+    position: absolute;
+    bottom:80px;
+    opacity:50%;
+    right:15px;
+}
+.locate{
+    position: absolute;
+    top:35px;
+    left: 15px;
+    opacity: 50%;
+}
+.dots{
+    position: absolute;
+    top:15px;
+    right: 15px;
+
+}
+.nav{
+    width: 900px;
+    border-bottom:1px solid grey;
+    height:50px;
+    position: relative;
+    margin-left: 220px;
+}
+.camera{
+    position: absolute;
+    right:30px;
+}
+.main{
+    border:2px solid gray;
+    position:absolute;
+    top:80px;
+    left:450px;
+height: 180px;
+width:550px;
+}
+#filetype{
+    width:500px;
+    border:1px solid gray;
+    margin-bottom: 15px;
+    position: absolute;
+    left:10px;
+    top:15px;
+}
+#author{
+    /* margin-right: 135px; */
+    width:200px;
+
+}
+.in{
+    width: 500px;
+    position: absolute;
+    top:55px;
+    left:15px
+}
+#location{
+    width:200px;
+    margin-left: 83px;
+}
+#discription{
+    width:493px;
+    margin-top: 15px;
+    position: absolute;
+    top:85px;
+    left:15px;
+
+}
+.btn{
+    position: absolute;
+    left:220px;
+    top: 135px;
+}
