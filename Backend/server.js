@@ -4,7 +4,7 @@ const multer= require("multer");
 const cors= require("cors");
 const postModel=require("./model");
 const app= express()
-app.listen(process.env.PORT || 3001,(err)=>{
+app.listen(process.env.PORT || 3004,(err)=>{
     if(!err){
         console.log("port connected in 3001");
     }else{
